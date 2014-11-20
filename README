@@ -1,0 +1,3 @@
+Simplistic benchmark tool for gometa. Currently it assumes that produced
+binary is put into gometa repository top level directory. It also depends on
+the wip ruby script to start gometa cluster.
